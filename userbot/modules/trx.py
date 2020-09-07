@@ -190,7 +190,7 @@ async def disapprovepm(disapprvpm):
         name0 = str(aname.first_name)
 
     await disapprvpm.edit(
-        f"`#AbucuyyBot: ...!`\n\n"
+        f"`#LAZARUZ: ...!`\n\n"
       f"`Telah Selesai Melakukan Transaksi Dengan` [{name0}](tg://user?id={disapprvpm.chat_id})")
 
     if BOTLOG:
